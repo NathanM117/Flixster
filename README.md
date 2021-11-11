@@ -6,3 +6,6 @@ Features include:
 * Dynamic list
 * Movie descriptions
 * Poster
+* Collections View
+* Tab Control
+* Movie Descriptions Page
